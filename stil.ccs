@@ -1,0 +1,11 @@
+.nav-link {
+    font-size: 24px;
+    color: rgb(32, 226, 42);
+    text-decoration: none;
+    display: flex ;
+}
+
+h2{
+      color: rgb(47, 20, 170);
+      background-color: aqua;
+}
